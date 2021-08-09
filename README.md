@@ -12,6 +12,9 @@ npm i --save-dev @react-theming/storybook-addon
 
 ![example](https://raw.githubusercontent.com/react-theming/storybook-addon/master/docs/theme-panel.png)
 
+NB: This addon is **not** compatible with the [@storybook/addon-backgrounds](https://storybook.js.org/addons/@storybook/addon-backgrounds/). (Bundled with `@storybook/addon-essentials`)
+
+
 ## Features :dizzy:
 
 - Universal - can be used with any styling library
@@ -21,7 +24,6 @@ npm i --save-dev @react-theming/storybook-addon
 - Auto changes background
 - Supports dark Storybook theme
 - Keep selected theme on stories updates
-
 
 ## Usage
 
